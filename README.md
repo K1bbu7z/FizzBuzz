@@ -1,4 +1,4 @@
-# CSC207 Week 1 Lab Activity #1: Fizz Buzz sdgsiada
+# CSC207 Week 1 Lab Activity #1: Fizz Buzz
 Let's start off our exploration of Java with a classic programming challenge, Fizz Buzz!
 
 But first, let's get you your own copy of this codebase to work with.
@@ -162,7 +162,7 @@ Later in this course, you'll learn what all that mess means, but for now it is e
 
 ### Task 1.1: Rewrite this using `while`
 
-- [X] You've puzzled through how Java `for` and `if` statements work; now rewrite this
+- [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
 ## How to test this code
@@ -194,7 +194,7 @@ You'll learn more about the various access modifiers in your Java readings soon.
 
 Now that you've made your first edits to your code, you should ask git to save these changes for you.
 
-- [X] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
+- [ ] Open the Terminal tab in IntelliJ and type `git status`, it will show you that you have modified `FizzBuzz.java` (and this README too!).
 
 We will save our local changes to `FizzBuzz.java` and then push the changes to your GitHub repository using
 a sequence of three git commands:
@@ -288,7 +288,7 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
